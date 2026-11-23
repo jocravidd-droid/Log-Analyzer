@@ -1,0 +1,7 @@
+{
+    "WARNING 192.168.1.10 : 0": " Utilisation de la mémoire vive élevée à 82%",
+    "WARNING 45.132.89.10 : 1": " Nombre élevé de requêtes détecté (95 req/min)",
+    "WARNING 192.168.1.10 : 2": " Espace disque faible sur la partition principale (12% restants)",
+    "WARNING 192.168.1.50 : 3": " Clé config_global introuvable dans le cache, repli sur la base de données",
+    "WARNING 82.64.112.19 : 4": " Temps de réponse dégradé sur l'endpoint POST /api/v1/reports (1850ms)"
+}

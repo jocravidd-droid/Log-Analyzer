@@ -1,0 +1,20 @@
+2026-11-23 08:00:01 192.168.1.10 INFO Démarrage du service principal version 2.4.1
+2026-11-23 08:00:02 192.168.1.45 INFO Connexion établie avec succès à la base de données PostgreSQL
+2026-11-23 08:00:03 192.168.1.10 INFO Chargement des clés de chiffrement et des certificats SSL
+2026-11-23 08:01:12 82.64.112.19 INFO Connexion réussie pour l'utilisateur jean.dupont
+2026-11-23 08:05:44 192.168.1.10 WARNING Utilisation de la mémoire vive élevée à 82%
+2026-11-23 08:12:09 82.64.112.19 INFO Requête GET /api/v1/users/profile traitée en 42ms
+2026-11-23 08:15:30 45.132.89.10 WARNING Nombre élevé de requêtes détecté (95 req/min)
+2026-11-23 08:16:05 10.0.4.22 ERROR Échec de la transaction TX-98452 : délai d'attente dépassé
+2026-11-23 08:16:06 10.0.4.22 INFO Nouvelle tentative programmée pour la transaction TX-98452
+2026-11-23 08:16:36 10.0.4.22 INFO Transaction TX-98452 validée avec succès après nouvelle tentative
+2026-11-23 08:22:19 192.168.1.10 WARNING Espace disque faible sur la partition principale (12% restants)
+2026-11-23 08:30:00 127.0.0.1 INFO Exécution de la tâche planifiée de nettoyage des sessions expirées
+2026-11-23 08:30:01 127.0.0.1 INFO Suppression de 148 sessions expirées terminée
+2026-11-23 08:41:55 192.168.1.45 ERROR Échec de l'exécution de la requête SQL : deadlock détecté sur la table orders
+2026-11-23 08:45:10 192.168.1.50 WARNING Clé config_global introuvable dans le cache, repli sur la base de données
+2026-11-23 08:50:22 82.64.112.19 ERROR Impossible d'écrire le fichier facture_2026_11.pdf : permission refusée
+2026-11-23 09:00:00 127.0.0.1 INFO Vérification de l'état des microservices : 4 sur 5 opérationnels
+2026-11-23 09:02:18 192.168.1.60 ERROR Impossible de joindre le serveur SMTP : connexion refusée
+2026-11-23 09:05:41 82.64.112.19 WARNING Temps de réponse dégradé sur l'endpoint POST /api/v1/reports (1850ms)
+2026-11-23 09:10:15 82.64.112.19 INFO Déconnexion de l'utilisateur jean.dupont

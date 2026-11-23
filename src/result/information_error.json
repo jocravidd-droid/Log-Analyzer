@@ -1,0 +1,6 @@
+{
+    "ERROR 10.0.4.22 : 0": " Échec de la transaction TX-98452 : délai d'attente dépassé",
+    "ERROR 192.168.1.45 : 1": " Échec de l'exécution de la requête SQL : deadlock détecté sur la table orders",
+    "ERROR 82.64.112.19 : 2": " Impossible d'écrire le fichier facture_2026_11.pdf : permission refusée",
+    "ERROR 192.168.1.60 : 3": " Impossible de joindre le serveur SMTP : connexion refusée"
+}

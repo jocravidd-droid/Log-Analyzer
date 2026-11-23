@@ -1,0 +1,4 @@
+Resumer :
+Nombre d'info: 11
+Nombre de warning: 5
+Nombre d'erreur: 4

@@ -1,0 +1,13 @@
+{
+    "INFO 192.168.1.10 : 0": " Démarrage du service principal version 2.4.1",
+    "INFO 192.168.1.45 : 1": " Connexion établie avec succès à la base de données PostgreSQL",
+    "INFO 192.168.1.10 : 2": " Chargement des clés de chiffrement et des certificats SSL",
+    "INFO 82.64.112.19 : 3": " Connexion réussie pour l'utilisateur jean.dupont",
+    "INFO 82.64.112.19 : 4": " Requête GET /api/v1/users/profile traitée en 42ms",
+    "INFO 10.0.4.22 : 5": " Nouvelle tentative programmée pour la transaction TX-98452",
+    "INFO 10.0.4.22 : 6": " Transaction TX-98452 validée avec succès après nouvelle tentative",
+    "INFO 127.0.0.1 : 7": " Exécution de la tâche planifiée de nettoyage des sessions expirées",
+    "INFO 127.0.0.1 : 8": " Suppression de 148 sessions expirées terminée",
+    "INFO 127.0.0.1 : 9": " Vérification de l'état des microservices : 4 sur 5 opérationnels",
+    "INFO 82.64.112.19 : 10": " Déconnexion de l'utilisateur jean.dupont"
+}
