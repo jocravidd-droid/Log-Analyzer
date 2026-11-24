@@ -88,3 +88,4 @@ Les prochaines améliorations possibles sont :
 - Générer automatiquement des statistiques
 - Ajouter la prise en charge de nouveaux formats de logs
 - Écrire davantage de tests
+# Log-Analyzer
