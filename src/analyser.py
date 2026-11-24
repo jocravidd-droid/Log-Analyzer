@@ -172,6 +172,12 @@ if __name__ == "__main__":
     rapport(e, w, i, ed, wd, idi)
     print(chercheur_ip())
     f = filtre("warning", "45.132.89.10")
-    with open("registre", "a") as r:
-        ecrit = "\n" + str(f)
-        recherche = r.write(ecrit)
+    masquer = True
+    if masquer:
+        with open(".registre.txt", "a") as r:
+            ecrit = "\n" + str(f)
+            recherche = r.write(ecrit)
+    else:
+        with open("registre.txt", "a") as r:
+            ecrit = "\n" + str(f)
+            recherche = r.write(ecrit)
