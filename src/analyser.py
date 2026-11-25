@@ -48,7 +48,6 @@ def chercheur_ip():
         print("Fichier inexistant ou Introuvable")
 
 
-# retire des
 def filtre(choice, ip=None):
     try:
         if ip is None:
